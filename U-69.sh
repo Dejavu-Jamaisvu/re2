@@ -18,6 +18,7 @@ cat << EOF >> $result
 
 EOF
 
+
 BAR
 
 
